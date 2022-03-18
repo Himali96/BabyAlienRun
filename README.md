@@ -1,3 +1,3 @@
 # Himali Kothari
 # Platformer Runner (Auto Scroller)
-# BabyAlienRun
+# Baby Alien Run
